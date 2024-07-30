@@ -5,7 +5,7 @@
 </h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
@@ -17,6 +17,9 @@
 
 <a href="www.linkedin.com/in/mahmoud-khaled-0129771a2" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/+201095721841" onclick="window.open(this.href,'_blank'); return false;"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" /></a>
+<a href="https://mahmoudkhaled.netlify.app/portfolio/about" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/Mahmoud%20khaleed" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black"/></a>
+
 
 <a href="https://buymeacoffee.com/mahmoudkhap" target="_blank" ><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
